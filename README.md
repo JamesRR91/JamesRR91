@@ -22,3 +22,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SA-SQLAlchemy-red)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+### More About Me 
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRR91)](https://github.com/JamesRR91/github-readme-stats)
