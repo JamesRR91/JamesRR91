@@ -25,3 +25,4 @@
 
 ### More About Me 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRR91&show_icons=true&theme=radical)](https://github.com/JamesRR91/github-readme-stats)
+[![The Story So Far](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesRR91&layout=compact)](https://github.com/JamesRR91/github-readme-stats)
