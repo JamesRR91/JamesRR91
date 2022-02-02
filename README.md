@@ -24,4 +24,4 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### More About Me 
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRR91)](https://github.com/JamesRR91/github-readme-stats)
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRR91&show_icons=true&theme=radical)](https://github.com/JamesRR91/github-readme-stats)
